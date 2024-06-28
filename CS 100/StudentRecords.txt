@@ -1,0 +1,7 @@
+Jone Adams	M123456	3.65
+Mike Smith	M452355	2.65
+Mary Ann	M456712		4.00
+Allen  Brown	 M956712	3.65
+Mike   Davis	M452355	2.65
+Mary Wilson	  M856712	4.00
+Allen Harris	M123333	3.65
